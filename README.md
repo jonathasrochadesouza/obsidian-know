@@ -1,2 +1,3 @@
-# obsidian-know
+# 💜 Obsidian Know
+
 Knowledge and tests about obsidian

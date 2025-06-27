@@ -4,7 +4,7 @@ Knowledge and tests about obsidian
 
 ## 📃 Templates by templater
 
---> Templater Installation and Configuration Guide in Obsidian
+Templater Installation and Configuration Guide in Obsidian
 
 This detailed guide will help you install and configure the powerful Templater plugin in Obsidian, allowing you to create dynamic and automated templates for your notes. Get ready to supercharge your productivity! ✨
 
